@@ -195,7 +195,7 @@ nav ul li a:hover{
 } */
 .lists .list-flex{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .lists .list-flex .unorder p{
