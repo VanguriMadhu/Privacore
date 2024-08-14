@@ -102,7 +102,7 @@
     .footer-form form button {
         margin-top: 0px;
         display: block;
-        margin-left: 127px;
+        margin-left: 0px;
         outline: unset;
         border: none;
     }
@@ -247,7 +247,7 @@
         padding: 14px 111px 14px 17px;
     }
     .footer-form form button {
-        margin-left: 187px;
+        margin-left: 0px;
     }
     .footer-media {
         padding: 35px 0 20px 0;
@@ -295,7 +295,7 @@
     .footer-form {
         margin-right: 0px;
     }
-    
+
     input {
         padding: 14px 111px 14px 17px;
         width: 100%;
