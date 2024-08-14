@@ -515,6 +515,7 @@ input{
     margin-bottom: 20px;
     outline: unset;
     border: none;
+    width: 100%;
 }
 
 .footer-form{

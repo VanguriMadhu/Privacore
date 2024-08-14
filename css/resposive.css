@@ -292,4 +292,12 @@
     nav ul li:first-child{
         line-height: 0;
     }
+    .footer-form {
+        margin-right: 0px;
+    }
+    
+    input {
+        padding: 14px 111px 14px 17px;
+        width: 100%;
+    }
 }
