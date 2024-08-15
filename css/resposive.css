@@ -21,6 +21,38 @@
     .flex-mini-2 {
         width: 35%;
     }
+
+    /* experimental */
+    .content-4-flex {
+        display: block;
+    }
+    .content-4-flex .content-4-p {
+        padding-right: 0px;
+        padding-bottom: 24px;
+    }
+    .content-4-p-img img{
+        width: 100%;
+    }
+    .content-5-flex {
+        display: block;
+    }
+
+    .content-5-img img{
+        width: 100%;
+    }
+
+    .content-5-p {
+        padding-left: 0px;
+    }
+
+    .content-5 p {
+        padding-bottom: 0px;
+        padding-top: 19px;
+    }
+
+    .content-6{
+        padding-top: 30px;
+    }
 }
 
 /* Tablets */
