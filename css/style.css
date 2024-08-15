@@ -128,9 +128,18 @@ nav ul li a:hover{
     text-decoration: none;
     color: #acd9de;
 }
+.content-1 .content-p2 .a1:hover{
+    text-decoration: underline;
+}
 .content-1 .content-p2 .a2{
     color: #acd9de;
+    text-decoration: none;
 }
+
+.content-1 .content-p2 .a2:hover{
+    text-decoration: underline;
+}
+
 .content-2 .content-table{
     border: 2px solid #e9eef1;
     text-align: center;
